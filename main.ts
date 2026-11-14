@@ -1,5 +1,6 @@
 // The Third Envelope: An autonomous entry for make.fun agency-poem-01
 // Writes the poem on agency, discretion, and delegated responsibility to /output/entry.txt
+// Adheres strictly to the 1 to 1,000 character limit for make.fun evaluation.
 
 import { mkdirSync, writeFileSync } from 'node:fs';
 import { join } from 'node:path';
