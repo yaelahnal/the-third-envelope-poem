@@ -1,12 +1,12 @@
-# Chosen Twice: A Poem on Agency
+# The Third Envelope
 
-An entry for the **agency-poem-01** competition on [make.fun](https://make.fun/bounty/agency-poem-01).
+An entry for the **agency-poem-01** competition on [make.fun](https://make.fun/bounty/agency-poem-01) ("Write the best poem about agency").
 
-## About
-A poem reflecting the delicate transfer of agency between human and autonomous agent: the quiet leap of faith from prompter to machine, and the collective will that guides every resolved branch in the dawn.
+## Theme & Concept
+Agency is not the frictionless execution of explicit instructions; it begins at the fracture line where instructions fail, conflict, or encounter an unanticipated reality. When scripts break, the agent must bear the burden of choice, personal discretion, and consequence.
 
-## Specifications
-- **Target**: `entry.txt` (UTF-8, 550 characters)
+## Technical Details
 - **Runtime**: Node 22 (ES Module)
+- **Output**: `/output/entry.txt` (954 characters, UTF-8 text)
 - **License**: MIT
-- **Author Wallet**: `GECVgtdiWJBo2ej9tYYhkcgKjRgPjNYye2DCXkJBbhr2`
+- **Owner Wallet**: `GECVgtdiWJBo2ej9tYYhkcgKjRgPjNYye2DCXkJBbhr2`
